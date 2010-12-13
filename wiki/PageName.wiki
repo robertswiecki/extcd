@@ -1,1 +1,1 @@
-<wiki:gadget url="javascript:alert(10)" up_pref1="val1" up_pref2="val2"/> 
+<wiki:gadget url="javascript:alert(10);http://a" up_pref1="val1" up_pref2="val2"/> 
